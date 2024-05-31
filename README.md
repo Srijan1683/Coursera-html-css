@@ -1,3 +1,3 @@
 # Coursera-html-css
 
-Link: https://github.com/Srijan1683/Coursera-html-css.git
+Link: https://Srijan1683.github.io/Coursera-html-css/
